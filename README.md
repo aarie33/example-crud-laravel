@@ -1,6 +1,7 @@
 # CRUD Example with Laravel
 This is a simple example of a CRUD (Create, Read, Update, Delete) application using Laravel ^8.x. It is a simple application that allows you to create, read, update and delete users. <br />
-This project was created for educational purposes only. <br />
+
+### Possibly you need an example of a CRUD application with Laravel, so I decided to create this repository. I hope it helps you.
 
 ## Installation
 1. Clone the repository
@@ -25,8 +26,8 @@ This project was created for educational purposes only. <br />
         <td>Detail</td>
     </tr>
     <tr>
-        <td valign="top"><img src="https://prnt.sc/qm93a2ZqEdTw"></td>
-        <td valign="top"><img src="https://prnt.sc/PGCaz70slGDe"></td>
-        <td valign="top"><img src="https://prnt.sc/-BplZG8gsi3s"></td>
+        <td valign="top"><img src="https://github.com/aarie33/example-crud-laravel/blob/main/public/images/list.png"></td>
+        <td valign="top"><img src="https://github.com/aarie33/example-crud-laravel/blob/main/public/images/create.png"></td>
+        <td valign="top"><img src="https://github.com/aarie33/example-crud-laravel/blob/main/public/images/show.png"></td>
     </tr>
 </table>
