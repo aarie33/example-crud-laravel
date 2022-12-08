@@ -10,8 +10,9 @@ This is a simple example of a CRUD (Create, Read, Update, Delete) application us
 4. Run `npm run dev`
 5. Copy `.env.example` to `.env`
 6. Run `php artisan key:generate`
-7. Run `php artisan migrate`
-8. Run `php artisan serve`
+7. Run `php artisan storage:link`
+8. Run `php artisan migrate`
+9. Run `php artisan serve`
 
 ## Laravel Features Used
 - Eloquent ORM
